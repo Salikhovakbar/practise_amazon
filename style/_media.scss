@@ -1,0 +1,230 @@
+@media only screen and (max-width: 400px){
+  body{
+background-image: url(../img/pngtree-beautiful-technology-website-business-poster-background-template-picture-image_1107136.jpg);
+background-size: cover;
+}
+.date{
+    color: white;
+}
+    .header_left{
+        display: block;
+        display: flex;
+        justify-content: space-between;
+
+    }
+header{
+    width: 400px;
+display: flex;
+justify-content: space-between;
+}
+.logo_inside_text{
+margin-left: 150px;
+}
+.menu{
+    display: block !important;
+
+}
+.menu_inside:focus::before{
+display: block;
+}
+nav{
+    display: none;
+}
+.header_logo::after{
+    display: none;
+}
+.logo_inside_text{
+    display: none;
+}
+.logo_phone_text{
+    display: block;
+}
+.header_logo{
+    margin-right: 100px;
+}
+.phone_btn{
+    display: block !important;
+    margin-left: 35px;
+}
+.header_logo{
+display: flex;
+justify-content: space-between;
+}
+.hero_photo{
+    width: 336px;
+    height: 188px;
+    margin-left: 30px;
+}
+.main_text{
+    margin-left: 30px;
+}
+h1{
+    max-width: 370px;
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 32px;
+/* or 139% */
+
+letter-spacing: -0.638889px;
+
+color: #152739;
+}
+.topic{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 32px;
+/* identical to box height, or 139% */
+
+letter-spacing: -0.638889px;
+
+color: #152739;
+}
+.apps{
+    width: 375px !important;
+}
+p{
+    max-width: 335px !important;
+}
+.container{
+    background-size: cover;
+    width: 335px;
+    height: 188px;
+}
+.email_part{
+width: 375px;
+height: 293px;
+display: block !important;
+padding-right: 36px;
+
+}
+.email{
+width: 332px;
+height: 52px;
+    border: 1px solid aqua;
+    padding: 0;
+}
+.offer{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 23px;
+line-height: 32px;
+/* identical to box height, or 139% */
+
+text-align: center;
+letter-spacing: -0.638889px;
+
+color: #152739;
+}
+.prefernce{
+    max-width: 300px;
+    text-align: center;
+}
+.subscribe{
+    padding: 19px 112px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 15px;
+    text-align: center;
+    letter-spacing: 1.4px;
+    text-transform: uppercase;
+    
+    color: #FFFFFF;
+}
+.inside_hero{
+    margin-left: 300px;
+}
+.main_peace{
+    display: block;
+}
+.second{
+    margin-left: -10px;
+}
+.question{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 25px;
+/* identical to box height, or 119% */
+
+letter-spacing: -0.403846px;
+
+color: #000000;
+}
+.continuation{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 18px;
+/* identical to box height */
+
+letter-spacing: -0.166667px;
+
+color: #3CC8AE;
+
+mix-blend-mode: normal;
+opacity: 0.9;
+}
+.last_step{
+    width: 375px;
+    margin-left: 30px;
+}
+.apex{
+    width: 375px;
+    display: block;
+    height: 186px;
+    margin-left: 30px;
+}
+.footer_part{
+    display: block;
+        width: 375px;
+        height: 864px;
+        margin-left: 30px;
+}
+.first_country{
+    display: flex;
+    margin-top: 33px;
+}
+.part{
+    display: flex;
+}
+.first_part_phone{
+    display: block;
+    margin-left: 62px;
+}
+.second_country{
+    display: flex;
+    margin-top: 33px;
+}
+.third_country{
+    display: flex;
+    margin-top: 33px;
+}
+.footer_inside{
+    display: block;
+
+}
+.footer_email{
+    padding: 0;
+    width: 335px;
+    height: 48px;
+    text-indent: 16px;
+    position: relative;
+}
+.final_btn{
+    position: absolute;
+top: 6522px;
+left: 180px;
+}
+.sites{
+    margin-top: 25px;
+}
+}
